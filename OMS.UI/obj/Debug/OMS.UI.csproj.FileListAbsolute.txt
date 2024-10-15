@@ -1,0 +1,12 @@
+D:\C#\OMS.UI\bin\Debug\OMS.UI.exe.config
+D:\C#\OMS.UI\bin\Debug\OMS.UI.exe
+D:\C#\OMS.UI\bin\Debug\OMS.UI.pdb
+D:\C#\OMS.UI\bin\Debug\OMS.BusinessLayer.dll
+D:\C#\OMS.UI\bin\Debug\OMS.Entities.dll
+D:\C#\OMS.UI\bin\Debug\OMS.BusinessLayer.pdb
+D:\C#\OMS.UI\bin\Debug\OMS.Entities.pdb
+D:\C#\OMS.UI\obj\Debug\OMS.UI.csproj.AssemblyReference.cache
+D:\C#\OMS.UI\obj\Debug\OMS.UI.csproj.CoreCompileInputs.cache
+D:\C#\OMS.UI\obj\Debug\OMS.UI.csproj.Up2Date
+D:\C#\OMS.UI\obj\Debug\OMS.UI.exe
+D:\C#\OMS.UI\obj\Debug\OMS.UI.pdb
