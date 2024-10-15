@@ -1,0 +1,9 @@
+D:\C#\OMS.BusinessLayer\bin\Debug\OMS.BusinessLayer.dll
+D:\C#\OMS.BusinessLayer\bin\Debug\OMS.BusinessLayer.pdb
+D:\C#\OMS.BusinessLayer\bin\Debug\OMS.Entities.dll
+D:\C#\OMS.BusinessLayer\bin\Debug\OMS.Entities.pdb
+D:\C#\OMS.BusinessLayer\obj\Debug\OMS.BusinessLayer.csproj.AssemblyReference.cache
+D:\C#\OMS.BusinessLayer\obj\Debug\OMS.BusinessLayer.csproj.CoreCompileInputs.cache
+D:\C#\OMS.BusinessLayer\obj\Debug\OMS.Busi.6987DD52.Up2Date
+D:\C#\OMS.BusinessLayer\obj\Debug\OMS.BusinessLayer.dll
+D:\C#\OMS.BusinessLayer\obj\Debug\OMS.BusinessLayer.pdb
