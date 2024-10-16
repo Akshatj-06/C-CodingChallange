@@ -1,6 +1,0 @@
-D:\C#\OMS.Entities\bin\Debug\OMS.Entities.dll
-D:\C#\OMS.Entities\bin\Debug\OMS.Entities.pdb
-D:\C#\OMS.Entities\obj\Debug\OMS.Entities.csproj.AssemblyReference.cache
-D:\C#\OMS.Entities\obj\Debug\OMS.Entities.csproj.CoreCompileInputs.cache
-D:\C#\OMS.Entities\obj\Debug\OMS.Entities.dll
-D:\C#\OMS.Entities\obj\Debug\OMS.Entities.pdb
