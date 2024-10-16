@@ -1,0 +1,6 @@
+D:\C#\Practice\OrderManagementSystem\OrderManagementSystem.Entity\bin\Debug\OrderManagementSystem.Entity.dll
+D:\C#\Practice\OrderManagementSystem\OrderManagementSystem.Entity\bin\Debug\OrderManagementSystem.Entity.pdb
+D:\C#\Practice\OrderManagementSystem\OrderManagementSystem.Entity\obj\Debug\OrderManagementSystem.Entity.csproj.AssemblyReference.cache
+D:\C#\Practice\OrderManagementSystem\OrderManagementSystem.Entity\obj\Debug\OrderManagementSystem.Entity.csproj.CoreCompileInputs.cache
+D:\C#\Practice\OrderManagementSystem\OrderManagementSystem.Entity\obj\Debug\OrderManagementSystem.Entity.dll
+D:\C#\Practice\OrderManagementSystem\OrderManagementSystem.Entity\obj\Debug\OrderManagementSystem.Entity.pdb

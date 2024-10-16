@@ -1,0 +1,12 @@
+D:\C#\Practice\OrderManagementSystem\OrderManagementSystem.UI\bin\Debug\OrderManagementSystem.UI.exe.config
+D:\C#\Practice\OrderManagementSystem\OrderManagementSystem.UI\bin\Debug\OrderManagementSystem.UI.exe
+D:\C#\Practice\OrderManagementSystem\OrderManagementSystem.UI\bin\Debug\OrderManagementSystem.UI.pdb
+D:\C#\Practice\OrderManagementSystem\OrderManagementSystem.UI\bin\Debug\OrderManagementSystem.BusinessLayer.dll
+D:\C#\Practice\OrderManagementSystem\OrderManagementSystem.UI\bin\Debug\OrderManagementSystem.Entity.dll
+D:\C#\Practice\OrderManagementSystem\OrderManagementSystem.UI\bin\Debug\OrderManagementSystem.BusinessLayer.pdb
+D:\C#\Practice\OrderManagementSystem\OrderManagementSystem.UI\bin\Debug\OrderManagementSystem.Entity.pdb
+D:\C#\Practice\OrderManagementSystem\OrderManagementSystem.UI\obj\Debug\OrderManagementSystem.UI.csproj.AssemblyReference.cache
+D:\C#\Practice\OrderManagementSystem\OrderManagementSystem.UI\obj\Debug\OrderManagementSystem.UI.csproj.CoreCompileInputs.cache
+D:\C#\Practice\OrderManagementSystem\OrderManagementSystem.UI\obj\Debug\OrderMan.0ECDE176.Up2Date
+D:\C#\Practice\OrderManagementSystem\OrderManagementSystem.UI\obj\Debug\OrderManagementSystem.UI.exe
+D:\C#\Practice\OrderManagementSystem\OrderManagementSystem.UI\obj\Debug\OrderManagementSystem.UI.pdb
